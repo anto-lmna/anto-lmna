@@ -44,6 +44,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/anto-lmna/anto-lmna/output/snake.svg" alt="Snake animation" />
-
 ###
